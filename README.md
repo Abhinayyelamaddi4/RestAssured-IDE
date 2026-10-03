@@ -1,2 +1,5 @@
 # RestAssured
-REST Assured is an open-source, Java-based library designed specifically for automating and testing RESTful web services 
+----> representational state transfer <--->RestAssured
+----> resource used <----> http ----> hypertext transfer protocol
+----> popular data format <-->JSON
+----> URI type : noun based
