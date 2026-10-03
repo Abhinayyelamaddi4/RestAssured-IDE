@@ -1,0 +1,33 @@
+  {
+   "posts": 
+[
+    {
+      "id": 4,
+      "title": "json-server",
+      "author": "typicode"
+    }
+],
+    "users":
+[
+    {
+     "username" : "abhinay",
+     "job" : "ethical hacker",
+     "id" : "007"
+    }
+],
+     "comments":
+[
+    {
+      "id": 5,
+      "body": "ethical hacker",
+      "postId": 1
+    }
+],
+    "profile": 
+[
+    {
+    "name": "typicode",
+    "id" : "001"
+    }
+]
+  }

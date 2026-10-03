@@ -1,0 +1,40 @@
+Responsibilities
+
+Write, maintain, and rewrite Playwright test suites for the iOS and Android driver app, including through the upcoming full app overhaul
+Execute structured test plans, including manual regression testing, to validate release quality before and during automation buildout
+Diagnose and resolve flaky tests, distinguishing test-execution issues from real engineering defects
+Run and maintain parallelized test suites via BrowserStack and GitHub Actions, to keep execution times efficient
+Report results in TestRail
+Review existing manual tests before moving coverage into automation
+Learn how interconnected systems work (driver accounts, order settings, device conditions) well enough to design regression coverage for real-world variability
+Collaborate with developers, product managers, and leadership to understand requirements and ensure comprehensive test coverage
+Identify, document, and track software defects using issue tracking tools
+Participate in code reviews and contribute to the continuous improvement of the QA process
+Explore and implement AI-powered testing tools to enhance automation efficiency and accuracy
+Analyze test results and provide clear, actionable feedback to the development team
+
+
+
+
+Requirements
+3-5 years of experience in QA/test automation; equivalent hands-on experience accepted in place of a degree (a bachelor's degree is not required).
+
+Hands-on experience testing native mobile applications on iOS and Android.
+
+Experience with Playwright.
+
+Experience with TestFlight.
+
+Experience with TestRail platform.
+
+Experience running parallelized test suites.
+
+Strong ability to troubleshoot flaky tests and distinguish engineering issues from test-execution issues.
+
+Ability to quickly learn how interconnected systems function (accounts, permissions, order settings, device conditions) to design thorough test coverage.
+
+Strong analytical and problem-solving skills.
+
+Excellent communication and teamwork abilities.
+
+Ability to overlap with the team's morning ET sync meeting.
